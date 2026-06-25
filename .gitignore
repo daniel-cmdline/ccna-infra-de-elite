@@ -1,0 +1,6 @@
+# Ignorar arquivos temporários e de backup do CherryTree
+.*.ctb~
+.*.ctb~~
+.*.ctb~~~
+*~
+.*~
